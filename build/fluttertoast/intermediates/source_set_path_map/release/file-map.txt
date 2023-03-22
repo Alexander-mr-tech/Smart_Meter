@@ -1,0 +1,12 @@
+io.github.ponnamkarthik.toast.fluttertoast-jetified-annotation-experimental-1.1.0-0 C:\Users\Mr Tech\.gradle\caches\transforms-3\2d6295dfcdf80382480c98cda471a87b\transformed\jetified-annotation-experimental-1.1.0\res
+io.github.ponnamkarthik.toast.fluttertoast-jetified-window-java-1.0.0-beta04-1 C:\Users\Mr Tech\.gradle\caches\transforms-3\939010db79330f83996b5931b023bffc\transformed\jetified-window-java-1.0.0-beta04\res
+io.github.ponnamkarthik.toast.fluttertoast-core-1.6.0-2 C:\Users\Mr Tech\.gradle\caches\transforms-3\9672be3798a21938e94e3bcac73dc56b\transformed\core-1.6.0\res
+io.github.ponnamkarthik.toast.fluttertoast-jetified-window-1.0.0-beta04-3 C:\Users\Mr Tech\.gradle\caches\transforms-3\ef80e5420906619e52fdbe5a9a77b82c\transformed\jetified-window-1.0.0-beta04\res
+io.github.ponnamkarthik.toast.fluttertoast-main-4 C:\Users\Mr Tech\AppData\Local\Pub\Cache\hosted\pub.dev\fluttertoast-8.2.1\android\src\main\res
+io.github.ponnamkarthik.toast.fluttertoast-release-5 C:\Users\Mr Tech\AppData\Local\Pub\Cache\hosted\pub.dev\fluttertoast-8.2.1\android\src\release\res
+io.github.ponnamkarthik.toast.fluttertoast-pngs-6 D:\Flutter Projects\Iqra University Flutter Projects\SEPSMM\build\fluttertoast\generated\res\pngs\release
+io.github.ponnamkarthik.toast.fluttertoast-resValues-7 D:\Flutter Projects\Iqra University Flutter Projects\SEPSMM\build\fluttertoast\generated\res\resValues\release
+io.github.ponnamkarthik.toast.fluttertoast-rs-8 D:\Flutter Projects\Iqra University Flutter Projects\SEPSMM\build\fluttertoast\generated\res\rs\release
+io.github.ponnamkarthik.toast.fluttertoast-mergeReleaseResources-9 D:\Flutter Projects\Iqra University Flutter Projects\SEPSMM\build\fluttertoast\intermediates\incremental\release\mergeReleaseResources\merged.dir
+io.github.ponnamkarthik.toast.fluttertoast-mergeReleaseResources-10 D:\Flutter Projects\Iqra University Flutter Projects\SEPSMM\build\fluttertoast\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+io.github.ponnamkarthik.toast.fluttertoast-merged_res-11 D:\Flutter Projects\Iqra University Flutter Projects\SEPSMM\build\fluttertoast\intermediates\merged_res\release

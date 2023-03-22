@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.sepsmm.app-mergeReleaseResources-14:/values-night-v8/values-night-v8.xml",
+            "map": [
+                {
+                    "source": "D:\\Flutter Projects\\Iqra University Flutter Projects\\SEPSMM\\android\\app\\src\\main\\res\\values-night\\styles.xml",
+                    "from": {
+                        "startLines": "4,15",
+                        "startColumns": "4,4",
+                        "startOffsets": "214,870",
+                        "endLines": "8,17",
+                        "endColumns": "12,12",
+                        "endOffsets": "521,1036"
+                    },
+                    "to": {
+                        "startLines": "2,6",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,236",
+                        "endLines": "5,8",
+                        "endColumns": "12,12",
+                        "endOffsets": "231,400"
+                    }
+                }
+            ]
+        }
+    ]
+}
