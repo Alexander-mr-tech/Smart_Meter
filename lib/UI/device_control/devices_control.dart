@@ -1,4 +1,3 @@
-import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:sepsmm/Drawer/drawer.dart';
 import 'package:firebase_database/firebase_database.dart';
@@ -46,6 +45,7 @@ class _DeviceControlState extends State<DeviceControl> {
     return Scaffold(
       backgroundColor: Colors.black12,
       appBar: AppBar(
+        automaticallyImplyLeading: false,
         title: const Text("Device's Control"),
         centerTitle: true,
       ),

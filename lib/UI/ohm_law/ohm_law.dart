@@ -45,6 +45,7 @@ class _ohm_lawState extends State<ohm_law> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
+        automaticallyImplyLeading: false,
         title: const Text("Ohm's Law"),
         centerTitle: true,
       ),
